@@ -8,4 +8,6 @@
 
 - ### VSCode を閉じる
 
-- 
+- ### code-install-ext.bat
+
+- ### cscript script-download.vbs
