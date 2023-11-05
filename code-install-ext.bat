@@ -17,3 +17,4 @@ cmd /c code --install-extension cweijan.vscode-mysql-client2 --force
 cmd /c code --install-extension pkief.material-icon-theme --force
 cmd /c code --install-extension adpyke.vscode-sql-formatter --force
 cmd /c code --install-extension serpen.vbsvscode --force
+cmd /c code --install-extensionms-python.python --force
