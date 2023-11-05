@@ -19,3 +19,4 @@ cmd /c code --install-extension adpyke.vscode-sql-formatter --force
 cmd /c code --install-extension serpen.vbsvscode --force
 cmd /c code --install-extension ms-python.python --force
 cmd /c code --install-extension esbenp.prettier-vscode --force
+cmd /c code --install-extension pdconsec.vscode-print --force
