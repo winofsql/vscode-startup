@@ -1,5 +1,5 @@
 REM vscode > F1 > Configure Display Language
-echo vscode > F1 > Configure Display Language
+echo "vscode > F1 > Configure Display Language"
 
 cmd /c code --install-extension ms-ceintl.vscode-language-pack-ja  --force
 cmd /c code --install-extension adrianwilczynski.terminal-commands --force
