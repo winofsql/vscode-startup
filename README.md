@@ -3,6 +3,8 @@
 - ### [Git](https://git-scm.com/)
 
 - ### [php-subject.bat](php-subject.bat)
+  - ### [java-subject.bat](java-subject.bat)
+  - ### [cs-subject.bat](cs-subject.bat)
 
 - ### VSCode を閉じる
 
