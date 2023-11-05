@@ -15,4 +15,4 @@
 # XAMPP
 
 - ### [httpd.conf](https://regex101.com/r/qBqKdl/1)
-- ### 
+- ### conf/extra/httpd-lightbox.conf
