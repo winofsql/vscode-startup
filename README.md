@@ -2,11 +2,11 @@
 
 - ### [Git](https://git-scm.com/)
 
-- ### php-subject.bat
+- ### [php-subject.bat](php-subject.bat)
 
 - ### VSCode を閉じる
 
-- ### code-install-ext.bat
+- ### [code-install-ext.bat](code-install-ext.bat)
   - 拡張の一括インストール
 
 - ### cscript script-download.vbs
