@@ -15,6 +15,6 @@
 # xampp
 
 - ### [httpd.conf](https://regex101.com/r/qBqKdl/1)
-- ### conf/extra/httpd-lightbox.conf
+- ### [conf/extra/httpd-lightbox.conf](httpd-lightbox.conf)
 - ### [build-xampp-alias.vbs](build-xampp-alias.vbs)
 - ### [xampp-settings( XAMPP Version 7.4.33 )](https://github.com/winofsql/xampp-settings)
