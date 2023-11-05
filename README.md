@@ -23,3 +23,5 @@
 
 
 # java
+
+  - ### [JAVA-SDK-settings.vbs](JAVA-SDK-settings.vbs)
